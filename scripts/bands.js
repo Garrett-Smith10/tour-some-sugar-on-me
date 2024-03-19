@@ -1,0 +1,3 @@
+/* this module will import the band information from the database 
+and then through a series of for loops and eventListeners have the information
+ready to be displayed */
