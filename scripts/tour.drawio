@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="oaDDiUFIhbO3W98eNdzG" name="Page-1">
-        <mxGraphModel dx="2937" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3632" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -115,80 +115,131 @@
                 <mxCell id="27" value="Bookings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="370" y="3530" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                <mxCell id="28" value="" style="endArrow=classic;html=1;fontSize=32;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-780" y="640" as="sourcePoint"/>
                         <mxPoint x="430" y="640" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="" style="endArrow=classic;html=1;fontSize=32;dashed=1;" edge="1" parent="1">
+                <mxCell id="29" value="" style="endArrow=classic;html=1;fontSize=32;dashed=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="430" y="1080" as="sourcePoint"/>
                         <mxPoint x="-780" y="1080" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                <mxCell id="30" value="" style="endArrow=classic;html=1;fontSize=32;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="430" y="670" as="sourcePoint"/>
                         <mxPoint x="1620" y="670" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="31" value="Can I have the data for bookings, venues and bands?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="31" value="Can I have the data for bookings, venues and bands?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="530" y="640" width="990" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="Invoke Bookings() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="32" value="Invoke Bookings() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="-690" y="610" width="1010" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="endArrow=classic;html=1;fontSize=32;dashed=1;" edge="1" parent="1">
+                <mxCell id="33" value="" style="endArrow=classic;html=1;fontSize=32;dashed=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1620" y="740" as="sourcePoint"/>
                         <mxPoint x="430" y="740" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="34" value="Yes here are those pieces of data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="34" value="Yes here are those pieces of data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="500" y="710" width="1060" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="39" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="385" y="760" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="Invokes findBand() and findVenue() functions and iterates through them, then returns a line of html&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="41" value="Invokes findBand() and findVenue() functions and iterates through them, then returns a line of html&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="260" y="790" width="350" height="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="Here is the Bookings() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="42" value="Here is the Bookings() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="-700" y="1050" width="1050" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                <mxCell id="43" value="" style="endArrow=classic;html=1;fontSize=32;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-780" y="1160" as="sourcePoint"/>
                         <mxPoint x="940" y="1160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="44" value="Invoke Venues() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="44" value="Invoke Venues() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="-710" y="1130" width="1580" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                <mxCell id="45" value="" style="endArrow=classic;html=1;fontSize=32;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="940" y="1220" as="sourcePoint"/>
                         <mxPoint x="1620" y="1220" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="46" value="I need the bookings, venues and bands data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="46" value="I need the bookings, venues and bands data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="960" y="1190" width="640" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                <mxCell id="47" value="" style="endArrow=classic;html=1;fontSize=32;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1620" y="1290" as="sourcePoint"/>
                         <mxPoint x="940" y="1290" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="48" value="Yes, here it is" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="48" value="Yes, here it is" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="980" y="1260" width="600" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="49" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="890" y="1310" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="Invokes getBands() iterates through it and returns an HTML string&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                <mxCell id="50" value="Invokes getVenues() iterates through it and returns an HTML string&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" parent="1" vertex="1">
                     <mxGeometry x="820" y="1340" width="250" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;fontSize=32;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="940" y="1570" as="sourcePoint"/>
+                        <mxPoint x="-780" y="1560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Here is the Venues() Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="-720" y="1530" width="1550" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-780" y="1650" as="sourcePoint"/>
+                        <mxPoint x="-100" y="1650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="Can I have the bands() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="-730" y="1620" width="560" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-100" y="1690" as="sourcePoint"/>
+                        <mxPoint x="1620" y="1690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="Can I have the bookings, venues and bands data?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="1660" width="1500" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1620" y="1760" as="sourcePoint"/>
+                        <mxPoint x="-100" y="1760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="Yes here they are!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry y="1730" width="1540" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Loop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="-150" y="1790" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Invokes getBands() iterates through it and returns an HTML string" style="rounded=1;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="-220" y="1820" width="260" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=classic;html=1;fontSize=32;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-100" y="2050" as="sourcePoint"/>
+                        <mxPoint x="-780" y="2050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="Here is the bands() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+                    <mxGeometry x="-700" y="2020" width="540" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
